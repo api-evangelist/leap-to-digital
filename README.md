@@ -64,5 +64,97 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Leap is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://leaptodigital.com/
+Leap provides cloud‑based software for roofing and remodeling contractors, offering tools for CRM, sales, estimating, contracts, payment processing, and subcontractor management. Their platform helps contractors streamline workflows, improve customer interactions, and grow their businesses with integrated features like dynamic contracts, customizable workflows, and industry‑specific solutions.
+
+**Areas:** Company · Roofing · Remodeling · ContractorSoftware · SaaS
+
+## Leap on APIs.io
+
+Everything profiled for Leap is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/leap-to-digital/](https://apis.io/providers/leap-to-digital/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Leap API](https://apis.io/apis/leap-to-digital/leap-api/) — API for Leap platform providing endpoints for contractors (CRM, estimating, payments).
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Leap To Digital Domain Security](https://apis.io/security/leap-to-digital/leap-to-digital-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Leap To Digital Plans Pricing](https://apis.io/plans/leap-to-digital/leap-to-digital-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://leaptodigital.com/)
+- [Documentation](https://help.leaptodigital.com/s/)
+- [Pricing](https://leaptodigital.com/pricing)
+- [Support](https://help.leaptodigital.com)
+- [Blog](https://leaptodigital.com/blog)
+- [Privacy policy](https://leaptodigital.com/privacy-policy/)
+- [Status](https://status.leaptodigital.com)
+
+## API Evangelist rating
+
+**Kin Score 24.4** — emerging · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 49.5 |
+
+**Agent readiness 21.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 15.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/leap-to-digital/](https://apis.io/providers/leap-to-digital/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Leap: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/leap-to-digital/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
